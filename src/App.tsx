@@ -14,11 +14,11 @@ const App = () => {
           </div>
           <div className="flex flex-col py-2 px-2 shadow-2xl rounded-md border-gray-400">
             <label className="">email</label>
-            <input type="text" placeholder="enter your name" className="bg-gray-500 border-2 rounded-md px-2" />
+            <input type="email" placeholder="enter your name" className="bg-gray-500 border-2 rounded-md px-2" />
           </div>
           <div className="flex flex-col py-2 px-2 shadow-2xl rounded-md border-gray-400">
             <label className="">password</label>
-            <input type="text" placeholder="enter your name" className="bg-gray-500 border-2 rounded-md px-2" />
+            <input type="password" placeholder="enter your name" className="bg-gray-500 border-2 rounded-md px-2" />
           </div>
 
 
